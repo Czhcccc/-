@@ -1,0 +1,247 @@
+2025-11-30 11:58:02,626 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 11:58:02,629 DEBUG DEBUG start_practice: matched=20
+2025-11-30 11:58:02,629 DEBUG show_question called index=0 cur_index(before)=0
+2025-11-30 11:58:02,629 DEBUG showing q id=5 type=single
+2025-11-30 11:58:02,630 ERROR Unhandled exception in show_question
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 399, in show_question
+    opts = self._normalize_options(raw_opts)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow._normalize_options() takes 1 positional argument but 2 were given
+2025-11-30 11:59:58,511 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 11:59:58,513 DEBUG DEBUG start_practice: matched=20
+2025-11-30 11:59:58,514 DEBUG show_question called index=0 cur_index(before)=0
+2025-11-30 11:59:58,514 DEBUG showing q id=5 type=single
+2025-11-30 11:59:58,514 DEBUG normalized options: (list) ['A. 人民民主专政', 'B. 中国共产党的领导', 'C. 改革开放', 'D. 社会主义市场经济体制']
+2025-11-30 12:00:03,880 DEBUG show_question called index=1 cur_index(before)=0
+2025-11-30 12:00:03,881 DEBUG showing q id=9 type=single
+2025-11-30 12:00:03,889 DEBUG normalized options: (list) ['A. 人民民主专政', 'B. 中国共产党的领导', 'C. 改革开放', 'D. 社会主义市场经济体制']
+2025-11-30 12:00:04,244 DEBUG show_question called index=2 cur_index(before)=1
+2025-11-30 12:00:04,244 DEBUG showing q id=13 type=single
+2025-11-30 12:00:04,245 DEBUG normalized options: (list) ['人民民主专政', '中国共产党的领导', '改革开放', '社会主义市场经济体制']
+2025-11-30 12:00:04,412 DEBUG show_question called index=3 cur_index(before)=2
+2025-11-30 12:00:04,412 DEBUG showing q id=14 type=single
+2025-11-30 12:00:04,417 DEBUG normalized options: (list) ['唯物史观', '剩余价值学说', '阶级斗争学说', '社会达尔文主义']
+2025-11-30 12:00:09,588 DEBUG show_question called index=4 cur_index(before)=3
+2025-11-30 12:00:09,588 DEBUG showing q id=15 type=multi
+2025-11-30 12:00:09,589 DEBUG normalized options: (list) ['生产力与生产关系的矛盾运动', '经济基础决定上层建筑', '个人意志决定历史走向', '阶级斗争是历史发展的动力']
+2025-11-30 12:00:10,646 DEBUG show_question called index=5 cur_index(before)=4
+2025-11-30 12:00:10,646 DEBUG showing q id=16 type=text
+2025-11-30 12:00:10,646 DEBUG normalized options: (list) []
+2025-11-30 12:00:22,939 INFO start_practice called: subject=思想道德与法治, unit=1
+2025-11-30 12:00:22,940 DEBUG DEBUG start_practice: matched=2
+2025-11-30 12:00:22,940 DEBUG show_question called index=0 cur_index(before)=0
+2025-11-30 12:00:22,940 DEBUG showing q id=6 type=single
+2025-11-30 12:00:22,940 DEBUG normalized options: (list) ['A. 是否主观上满足个人愿望', 'B. 是否在实践中得到实现', 'C. 是否反映客观事物发展的规律', 'D. 是否被多数人认可']
+2025-11-30 12:00:25,709 DEBUG show_question called index=0 cur_index(before)=0
+2025-11-30 12:00:25,709 DEBUG showing q id=6 type=single
+2025-11-30 12:00:25,710 DEBUG normalized options: (list) ['A. 是否主观上满足个人愿望', 'B. 是否在实践中得到实现', 'C. 是否反映客观事物发展的规律', 'D. 是否被多数人认可']
+2025-11-30 12:00:26,645 DEBUG show_question called index=1 cur_index(before)=0
+2025-11-30 12:00:26,645 DEBUG showing q id=10 type=single
+2025-11-30 12:00:26,646 DEBUG normalized options: (list) ['A. 是否主观上满足个人愿望', 'B. 是否在实践中得到实现', 'C. 是否反映客观事物发展的规律', 'D. 是否被多数人认可']
+2025-11-30 12:02:25,777 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 12:02:25,778 DEBUG DEBUG start_practice: matched=20
+2025-11-30 12:05:40,692 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 12:05:40,694 DEBUG DEBUG start_practice: matched=20
+2025-11-30 12:08:03,636 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 12:08:03,638 DEBUG DEBUG start_practice: matched=20
+2025-11-30 12:11:28,155 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 12:11:28,156 DEBUG DEBUG start_practice: matched=20
+2025-11-30 16:31:58,752 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 793, in <module>
+    main()
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 790, in main
+    sys.exit(app.exec_())
+             ^^^^^^^^^^^
+KeyboardInterrupt
+2025-11-30 16:32:08,179 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 16:32:08,181 DEBUG DEBUG start_practice: matched=20
+2025-11-30 16:36:52,846 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 16:36:52,848 DEBUG DEBUG start_practice: matched=20
+2025-11-30 16:37:07,835 INFO start_practice called: subject=马克思主义原理, unit=2
+2025-11-30 16:37:07,836 DEBUG DEBUG start_practice: matched=0
+2025-11-30 16:37:09,176 INFO start_practice called: subject=马克思主义原理, unit=3
+2025-11-30 16:37:09,177 DEBUG DEBUG start_practice: matched=0
+2025-11-30 16:37:10,412 INFO start_practice called: subject=马克思主义原理, unit=4
+2025-11-30 16:37:10,413 DEBUG DEBUG start_practice: matched=0
+2025-11-30 16:37:11,306 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 16:37:11,307 DEBUG DEBUG start_practice: matched=20
+2025-11-30 16:40:18,899 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 16:40:18,902 DEBUG DEBUG start_practice: matched=20
+2025-11-30 18:38:41,548 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 18:38:41,550 DEBUG DEBUG start_practice: matched=20
+2025-11-30 18:43:57,053 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 18:43:57,055 DEBUG DEBUG start_practice: matched=20
+2025-11-30 18:47:56,248 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 18:47:56,250 DEBUG DEBUG start_practice: matched=20
+2025-11-30 18:48:56,775 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 18:48:56,776 DEBUG DEBUG start_practice: matched=20
+2025-11-30 18:49:00,561 INFO start_practice called: subject=思想道德与法治, unit=1
+2025-11-30 18:49:00,562 DEBUG DEBUG start_practice: matched=2
+2025-11-30 18:49:06,039 INFO start_practice called: subject=毛泽东思想和中国特色社会主义理论体系概论, unit=1
+2025-11-30 18:49:06,040 DEBUG DEBUG start_practice: matched=0
+2025-11-30 18:51:35,326 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 53, in <module>
+    debug_print_stacked_pages()
+TypeError: debug_print_stacked_pages() missing 1 required positional argument: 'self'
+2025-11-30 18:51:56,133 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 53, in <module>
+    debug_print_stacked_pages()
+TypeError: debug_print_stacked_pages() missing 1 required positional argument: 'self'
+2025-11-30 18:52:04,889 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 18:52:04,890 DEBUG DEBUG start_practice: matched=20
+2025-11-30 18:54:31,832 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 18:54:31,834 DEBUG DEBUG start_practice: matched=20
+2025-11-30 19:02:45,880 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 19:02:45,881 DEBUG DEBUG start_practice: matched=20
+2025-11-30 19:05:31,303 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 19:05:31,305 DEBUG DEBUG start_practice: matched=20
+2025-11-30 19:10:06,741 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 19:10:06,742 DEBUG DEBUG start_practice: matched=20
+2025-11-30 19:13:22,882 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 924, in <module>
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 921, in main
+KeyboardInterrupt
+2025-11-30 19:13:30,374 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 19:13:30,376 DEBUG DEBUG start_practice: matched=20
+2025-11-30 19:16:05,427 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 19:16:05,428 DEBUG DEBUG start_practice: matched=20
+2025-11-30 19:22:39,146 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 19:22:39,148 DEBUG DEBUG start_practice: matched=20
+2025-11-30 19:23:00,912 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-11-30 19:23:00,914 DEBUG DEBUG start_practice: matched=20
+2025-12-01 20:02:18,435 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-12-01 20:02:18,437 DEBUG DEBUG start_practice: matched=20
+2025-12-01 20:03:43,511 INFO start_practice called: subject=马克思主义原理, unit=1
+2025-12-01 20:03:43,513 DEBUG DEBUG start_practice: matched=20
+2025-12-01 20:06:07,674 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:06:07,675 INFO Truncated loaded questions to 10
+2025-12-01 20:22:04,918 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:22:04,920 INFO Truncated loaded questions to 10
+2025-12-01 20:22:58,940 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:22:58,942 INFO Truncated loaded questions to 10
+2025-12-01 20:28:10,293 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:28:10,294 INFO Truncated loaded questions to 10
+2025-12-01 20:32:00,684 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:32:00,685 INFO Truncated loaded questions to 10
+2025-12-01 20:33:42,205 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:33:42,207 INFO Truncated loaded questions to 10
+2025-12-01 20:36:09,051 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:36:09,053 INFO Truncated loaded questions to 10
+2025-12-01 20:36:46,061 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:36:46,062 INFO Truncated loaded questions to 10
+2025-12-01 20:41:27,143 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:41:27,145 INFO Truncated loaded questions to 10
+2025-12-01 20:48:27,817 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:48:27,819 INFO Truncated loaded questions to 10
+2025-12-01 20:49:31,282 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:49:31,283 INFO Truncated loaded questions to 10
+2025-12-01 20:53:22,903 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-01 20:53:22,907 INFO Truncated loaded questions to 10
+2025-12-02 19:55:27,518 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 19:55:27,522 INFO Truncated loaded questions to 10
+2025-12-02 19:56:14,271 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 19:56:14,284 INFO Truncated loaded questions to 10
+2025-12-02 20:12:13,098 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:12:13,101 INFO Truncated loaded questions to 10
+2025-12-02 20:12:34,168 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 257, in <lambda>
+    lambda _, s=self: s.start_wrong_practice(limit=10, shuffle=False))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.start_wrong_practice() got an unexpected keyword argument 'limit'
+2025-12-02 20:12:39,249 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 257, in <lambda>
+    lambda _, s=self: s.start_wrong_practice(limit=10, shuffle=False))
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: MainWindow.start_wrong_practice() got an unexpected keyword argument 'limit'
+2025-12-02 20:19:14,425 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:19:14,428 INFO Truncated loaded questions to 10
+2025-12-02 20:24:18,731 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:25:01,359 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:42:39,592 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:45:25,405 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:49:45,728 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:50:08,753 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:50:58,336 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:52:25,382 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 20:52:44,527 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 21:00:13,810 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:18,280 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:18,918 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:27,920 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:28,418 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:28,538 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:29,775 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 178, in <lambda>
+    self.ui.pushButton_Moral.clicked.connect(lambda: self.on_subject_clicked("思想道德与法治"))
+                                                     ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:30,202 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 179, in <lambda>
+    self.ui.pushButton_Outline.clicked.connect(lambda: self.on_subject_clicked("中国近代史纲要"))
+                                                       ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:00:45,444 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
+2025-12-02 21:01:24,284 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:04:58,636 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:04:59,486 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:05:09,236 ERROR Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\17363\Documents\WeChat Files\wxid_orp0q19u7yie22\FileStorage\File\2025-11\软工大项目\app.py", line 177, in <lambda>
+    self.ui.pushButton_MAX.clicked.connect(lambda: self.on_subject_clicked("马克思主义原理"))
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'MainWindow' object has no attribute 'on_subject_clicked'
+2025-12-02 21:05:20,195 INFO start_practice called: subject=马克思主义原理, unit=1, shuffle=False
